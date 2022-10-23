@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : 19/07/2022, 20:03:51
-    Author     : EmiNu5
+    Author     : EmiNu
 --%>
 
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
