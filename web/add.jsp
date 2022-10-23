@@ -9,7 +9,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
         <form action="Controlador" method="POST">
             <div class="container mt-4">
                 <div class="card border-info mb-3" style="max-width: 18rem;">
